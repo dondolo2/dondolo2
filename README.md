@@ -66,9 +66,9 @@ Python ML app analyzing resumes with Streamlit & scikit-learn 🤖
 
 ## 📊 GitHub Stats
 
-![Mosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dondolo2&show_icons=true&theme=radical&cache_seconds=60)
+![Mosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dondolo2&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dondolo2&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dondolo2&layout=compact&theme=radical&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dondolo2&theme=radical)
 
