@@ -60,7 +60,7 @@ Python ML app analyzing resumes with Streamlit & scikit-learn 🤖
 - Suggests improvements to resumes
 - Interactive dashboard with charts
 
-[View Repo](https://github.com/BongiweDipodi/AI-resume-analyzer.git)
+[View Repo](https://github.com/dondolo2/AI-resume-analyzer.git)
 
 ---
 
